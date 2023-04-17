@@ -6,8 +6,10 @@ export default function Features() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">The majority our customers do not understand their workflows.</h2>
-            <p className="text-xl text-gray-400">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <h2 className="h2 mb-4">O que é energia potencial elétrica?</h2>
+            <p className="text-xl text-gray-200 text-left">&ensp;A energia potencial elétrica é a energia armazenada em um sistema de cargas elétricas devido ao seu posicionamento relativo no espaço. Ela é uma forma de energia que pode ser liberada quando as cargas elétricas se movem em um campo elétrico. A energia potencial elétrica é calculada com base na força elétrica entre as cargas e na distância entre elas, e é medida em joules (J).</p>
+            <p className="text-xl text-gray-200 text-left">&ensp;Em outras palavras, quando duas ou mais cargas elétricas interagem entre si, elas exercem uma força elétrica que depende de suas cargas e das distâncias entre elas. Quando as cargas são colocadas em uma configuração específica, como em um circuito elétrico ou em um capacitor, a energia potencial elétrica é armazenada no sistema. Essa energia pode ser liberada quando as cargas elétricas são movidas em uma direção que diminui a distância entre elas.</p>
+            <p className="text-xl text-gray-200 text-left">&ensp;A energia potencial elétrica é uma forma de energia que está presente em muitos dispositivos e equipamentos elétricos, como baterias, capacitores e geradores elétricos. Ela é uma das formas de energia mais importantes no estudo da eletricidade e da eletrônica, e é essencial para o funcionamento de muitos dispositivos elétricos e eletrônicos.</p>
           </div>
 
           {/* Items */}
